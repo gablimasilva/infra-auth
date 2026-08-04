@@ -1,15 +1,15 @@
-.terraform/
+# Visual Studio
+.vs/
 
+# Terraform
+.terraform/
 *.tfstate
 *.tfstate.*
-
 .terraform.lock.hcl
 
-crash.log
+# Logs
+*.log
 
-override.tf
-override.tf.json
-
-terraform.tfvars.local
-
-*.backup
+# OS
+.DS_Store
+Thumbs.db
