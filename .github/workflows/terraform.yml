@@ -11,15 +11,13 @@ jobs:
 
     runs-on: ubuntu-latest
 
-    defaults:
-      run:
-        working-directory: environments/dev
-
     steps:
 
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: hashicorp/setup-terraform@v3
+      - name: Setup Terraform
+        uses: hashicorp/setup-terraform@v3
 
       - name: Configure AWS
         uses: aws-actions/configure-aws-credentials@v4
@@ -28,10 +26,14 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: ${{ secrets.AWS_REGION }}
 
-      - run: terraform init
+      - name: Terraform Init
+        run: terraform init
 
-      - run: terraform validate
+      - name: Terraform Validate
+        run: terraform validate
 
-      - run: terraform plan
+      - name: Terraform Plan
+        run: terraform plan
 
-      - run: terraform apply -auto-approve
+      - name: Terraform Apply
+        run: terraform apply -auto-approve

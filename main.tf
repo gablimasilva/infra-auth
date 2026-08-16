@@ -1,5 +1,5 @@
 module "cognito" {
-  source = "../../modules/cognito"
+  source = "./modules/cognito"
 
   region         = var.region
   user_pool_name = "vehicle-sales-prod"
