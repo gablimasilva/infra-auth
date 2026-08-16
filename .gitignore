@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

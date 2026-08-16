@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\limag\\Documents\\FIAP - Fase 3 Sub\\infra-auth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\limag\\Documents\\FIAP - Fase 3 Sub\\infra-auth\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\limag\\Documents\\FIAP - Fase 3 Sub\\infra-auth\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\limag\\Documents\\FIAP - Fase 3 Sub\\infra-auth\\enviroments\\prod\\outputs.tf||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:enviroments\\prod\\outputs.tf||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\limag\\Documents\\FIAP - Fase 3 Sub\\infra-auth\\enviroments\\prod\\main.tf||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:enviroments\\prod\\main.tf||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\limag\\Documents\\FIAP - Fase 3 Sub\\infra-auth\\enviroments\\prod\\terraform.tfvars||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:enviroments\\prod\\terraform.tfvars||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\limag\\Documents\\FIAP - Fase 3 Sub\\infra-auth\\enviroments\\prod\\variables.tf||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:enviroments\\prod\\variables.tf||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\limag\\Documents\\FIAP - Fase 3 Sub\\infra-auth\\enviroments\\prod\\provider.tf||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:enviroments\\prod\\provider.tf||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\limag\\Documents\\FIAP - Fase 3 Sub\\infra-auth\\enviroments\\dev\\outputs.tf||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:enviroments\\dev\\outputs.tf||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\limag\\Documents\\FIAP - Fase 3 Sub\\infra-auth\\enviroments\\dev\\main.tf||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:enviroments\\dev\\main.tf||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\limag\\Documents\\FIAP - Fase 3 Sub\\infra-auth\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\limag\\Documents\\FIAP - Fase 3 Sub\\infra-auth\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAAAPgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-08-04T22:16:49.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\limag\\Documents\\FIAP - Fase 3 Sub\\infra-auth\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\limag\\Documents\\FIAP - Fase 3 Sub\\infra-auth\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-04T22:16:44.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "outputs.tf",
+              "DocumentMoniker": "C:\\Users\\limag\\Documents\\FIAP - Fase 3 Sub\\infra-auth\\enviroments\\prod\\outputs.tf",
+              "RelativeDocumentMoniker": "enviroments\\prod\\outputs.tf",
+              "ToolTip": "C:\\Users\\limag\\Documents\\FIAP - Fase 3 Sub\\infra-auth\\enviroments\\prod\\outputs.tf",
+              "RelativeToolTip": "enviroments\\prod\\outputs.tf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-04T22:16:38.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.tf",
+              "DocumentMoniker": "C:\\Users\\limag\\Documents\\FIAP - Fase 3 Sub\\infra-auth\\enviroments\\prod\\main.tf",
+              "RelativeDocumentMoniker": "enviroments\\prod\\main.tf",
+              "ToolTip": "C:\\Users\\limag\\Documents\\FIAP - Fase 3 Sub\\infra-auth\\enviroments\\prod\\main.tf",
+              "RelativeToolTip": "enviroments\\prod\\main.tf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-04T22:16:33.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "terraform.tfvars",
+              "DocumentMoniker": "C:\\Users\\limag\\Documents\\FIAP - Fase 3 Sub\\infra-auth\\enviroments\\prod\\terraform.tfvars",
+              "RelativeDocumentMoniker": "enviroments\\prod\\terraform.tfvars",
+              "ToolTip": "C:\\Users\\limag\\Documents\\FIAP - Fase 3 Sub\\infra-auth\\enviroments\\prod\\terraform.tfvars",
+              "RelativeToolTip": "enviroments\\prod\\terraform.tfvars",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-04T22:16:24.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "variables.tf",
+              "DocumentMoniker": "C:\\Users\\limag\\Documents\\FIAP - Fase 3 Sub\\infra-auth\\enviroments\\prod\\variables.tf",
+              "RelativeDocumentMoniker": "enviroments\\prod\\variables.tf",
+              "ToolTip": "C:\\Users\\limag\\Documents\\FIAP - Fase 3 Sub\\infra-auth\\enviroments\\prod\\variables.tf",
+              "RelativeToolTip": "enviroments\\prod\\variables.tf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-04T22:16:20.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "provider.tf",
+              "DocumentMoniker": "C:\\Users\\limag\\Documents\\FIAP - Fase 3 Sub\\infra-auth\\enviroments\\prod\\provider.tf",
+              "RelativeDocumentMoniker": "enviroments\\prod\\provider.tf",
+              "ToolTip": "C:\\Users\\limag\\Documents\\FIAP - Fase 3 Sub\\infra-auth\\enviroments\\prod\\provider.tf",
+              "RelativeToolTip": "enviroments\\prod\\provider.tf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-04T22:16:15.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "outputs.tf",
+              "DocumentMoniker": "C:\\Users\\limag\\Documents\\FIAP - Fase 3 Sub\\infra-auth\\enviroments\\dev\\outputs.tf",
+              "RelativeDocumentMoniker": "enviroments\\dev\\outputs.tf",
+              "ToolTip": "C:\\Users\\limag\\Documents\\FIAP - Fase 3 Sub\\infra-auth\\enviroments\\dev\\outputs.tf",
+              "RelativeToolTip": "enviroments\\dev\\outputs.tf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-04T22:15:48.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.tf",
+              "DocumentMoniker": "C:\\Users\\limag\\Documents\\FIAP - Fase 3 Sub\\infra-auth\\enviroments\\dev\\main.tf",
+              "RelativeDocumentMoniker": "enviroments\\dev\\main.tf",
+              "ToolTip": "C:\\Users\\limag\\Documents\\FIAP - Fase 3 Sub\\infra-auth\\enviroments\\dev\\main.tf",
+              "RelativeToolTip": "enviroments\\dev\\main.tf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-04T22:15:39.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
